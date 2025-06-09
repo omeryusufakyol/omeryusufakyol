@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ömer Yusuf 👋</h1>
-<h3 align="center">Software Engineer | 42 Student</h3>
+<h3 align="center">Software Engineer | Student at 42</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding gif">
