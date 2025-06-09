@@ -76,7 +76,7 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/ömer-yusuf-akyol-843a62240)
+- 💼 [LinkedIn](https://www.linkedin.com/in/%C3%B6mer-yusuf-akyol-843a62240)
 - 📬 Email: `omeryusufakyol2003@gmail.com`
 - 🧠 Portfolio (coming soon)
 
