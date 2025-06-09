@@ -35,11 +35,29 @@
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/omeryusufakyol/philosophers" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=philosophers&theme=radical" />
+  <a href="https://github.com/omeryusufakyol/philo_test_linux_mint" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=philo_test_linux_mint&theme=radical" />
   </a>
-  <a href="https://github.com/omeryusufakyol/minishell" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=minishell&theme=radical" />
+  <a href="https://github.com/omeryusufakyol/p_s_full" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=p_s_full&theme=radical" />
+  </a>
+  <a href="https://github.com/omeryusufakyol/so_long_full" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=so_long_full&theme=radical" />
+  </a>
+  <a href="https://github.com/omeryusufakyol/weather-app" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=weather-app&theme=radical" />
+  </a>
+  <a href="https://github.com/omeryusufakyol/to-do-list" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=to-do-list&theme=radical" />
+  </a>
+  <a href="https://github.com/omeryusufakyol/get_next_line_bonus" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=get_next_line_bonus&theme=radical" />
+  </a>
+  <a href="https://github.com/omeryusufakyol/ft_printf" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=ft_printf&theme=radical" />
+  </a>
+  <a href="https://github.com/omeryusufakyol/Libft" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=Libft&theme=radical" />
   </a>
 </p>
 
