@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://github.com/omeryusufakyol/philo" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=philo_test_linux_mint&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=philo&theme=radical" />
   </a>
   <a href="https://github.com/omeryusufakyol/p_s_full" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=p_s_full&theme=radical" />
