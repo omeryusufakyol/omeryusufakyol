@@ -35,7 +35,7 @@
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/omeryusufakyol/philo_test_linux_mint" target="_blank">
+  <a href="https://github.com/omeryusufakyol/philo" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=philo_test_linux_mint&theme=radical" />
   </a>
   <a href="https://github.com/omeryusufakyol/p_s_full" target="_blank">
