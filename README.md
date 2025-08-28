@@ -35,8 +35,8 @@
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/omeryusufakyol/Philosopheaaars" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=Philosophers&theme=radical" />
+  <a href="https://github.com/omeryusufakyol/Philosophers" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=Philosopheasdrs&theme=radical" />
   </a>
   <a href="https://github.com/omeryusufakyol/push_swap" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=push_swap&theme=radical" />
