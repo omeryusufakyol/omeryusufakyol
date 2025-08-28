@@ -35,14 +35,14 @@
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/omeryusufakyol/philo" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=philo&theme=radical" />
+  <a href="https://github.com/omeryusufakyol/Philosophers" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=Philosophers&theme=radical" />
   </a>
-  <a href="https://github.com/omeryusufakyol/p_s_full" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=p_s_full&theme=radical" />
+  <a href="https://github.com/omeryusufakyol/push_swap" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=push_swap&theme=radical" />
   </a>
-  <a href="https://github.com/omeryusufakyol/so_long_full" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=so_long_full&theme=radical" />
+  <a href="https://github.com/omeryusufakyol/so_long" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=so_long&theme=radical" />
   </a>
   <a href="https://github.com/omeryusufakyol/weather-app" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=weather-app&theme=radical" />
