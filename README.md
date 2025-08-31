@@ -35,6 +35,9 @@
 ## 📌 Featured Projects
 
 <p align="center">
+  <a href="https://github.com/omeryusufakyol/minishell" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=minishell&theme=radical" />
+  </a>
   <a href="https://github.com/omeryusufakyol/philosophers" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=philosophers&theme=radical" />
   </a>
