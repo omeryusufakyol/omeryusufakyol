@@ -47,9 +47,6 @@
   <a href="https://github.com/omeryusufakyol/so_long" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=so_long&theme=radical" />
   </a>
-  <a href="https://github.com/omeryusufakyol/weather-app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=weather-app&theme=radical" />
-  </a>
   <a href="https://github.com/omeryusufakyol/to-do-list" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=omeryusufakyol&repo=to-do-list&theme=radical" />
   </a>
